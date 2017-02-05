@@ -1,0 +1,22 @@
+body {
+  background-color: #d50c14;
+  color: white;
+}
+
+.container {
+  max-width: 800px;
+  max-height: 800px;
+  width: 100%;
+  height: 100%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.container img{
+  width: 100%;
+  height: 100%;
+}
+
+.init {
+  cursor: pointer;
+}
